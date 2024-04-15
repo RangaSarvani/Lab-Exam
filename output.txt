@@ -1,0 +1,8 @@
+Name: John Doe, ID Number 101
+Current pay rate: $11
+Pay earned to date: $22
+
+Name: Samith NEW, ID Number 106
+Current pay rate: $11
+Pay earned to date: $11
+
